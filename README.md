@@ -9,6 +9,7 @@ Check out the code file attached or view it at the given link:
         <li>Identify patterns and behaviors of users who churn and suggest strategies for the company to mitigate user churn.</li>
         <li>Develop a Machine Learning model capable of predicting which users are likely to churn.</li>
 </ul>
+
 ### 2. Dataset
 
 <table>

@@ -10,6 +10,7 @@ Check out the code file attached or view it at the given link:
         <li>Develop a Machine Learning model capable of predicting which users are likely to churn.</li>
 </ul>
 ### 2. Dataset
+
 <table>
         <tr>
             <th>Variable</th>

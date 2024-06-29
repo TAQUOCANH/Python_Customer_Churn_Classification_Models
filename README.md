@@ -148,7 +148,7 @@ Features selection
 
 ## III. Find the Best Model
 
-<img width="800" alt="" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/assets/135592751/4fef624e-e406-46e3-bf29-e67083f96ea3">
+<img width="800" alt="" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/assets/135592751/d4f206bd-afd7-47be-bd87-0d07a507f691">
 
 
 ## IV. Conclusion

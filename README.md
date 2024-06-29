@@ -98,3 +98,5 @@ Check out the code file attached or view it at the given link:
             <td>Average cashback received in the last month</td>
         </tr>
 </table>
+
+<img width="382" alt="Screenshot_6" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/assets/135592751/8a786f2c-43a2-4528-8233-51f085e14348">

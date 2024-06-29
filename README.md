@@ -125,3 +125,11 @@ Features selection
         <li>WarehouseToHome</li>
 </ul>
 
+### 3. EDA
+#### Tenure
+
+<img width="800" alt="" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/assets/135592751/3fd2dde8-b9c9-4754-8920-2afdec228df3">
+
+
+
+

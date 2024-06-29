@@ -1,6 +1,6 @@
 # Python_Customer_Churn_Classification_Models
 Check out the code file attached or view it at the given link:
-<a href="https://colab.research.google.com/drive/1uQawVabcY7w4srSzn_X4lQ6SS2Ghf8T6">Click here</a>
+<a href="https://colab.research.google.com/drive/19rlf50wUC1bZb3fX7ZOfNWdBfEHmuU4D">Click here</a>
 
 ## I. Introduction
 ### 1. Business Question

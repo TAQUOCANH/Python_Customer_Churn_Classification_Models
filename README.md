@@ -100,3 +100,17 @@ Check out the code file attached or view it at the given link:
 </table>
 
 <img width="382" alt="Screenshot_6" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/assets/135592751/8a786f2c-43a2-4528-8233-51f085e14348">
+
+## II. Process
+### 1. Data Handling and Cleaning
+<ul>
+        <li>Filling NaN values in the dataset using 0 for 'Tenure', 'CouponUsed', 'OrderCount' and median or mean values for other columns.
+</li>
+        <li>Remove those duplicate values</li>
+        <li>Define type of data</li>
+        <li>Feature Engineering and Scaling of the data</li>
+</ul>
+
+### 2. Important Features Influencing Model
+
+

@@ -113,5 +113,5 @@ Check out the code file attached or view it at the given link:
 
 ### 2. Important Features Influencing Model
 
-<img width="560" alt="" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/assets/135592751/d6ef24d4-4051-464d-8e1e-2ceb4fcf4a83">
+<img width="800" alt="" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/assets/135592751/d6ef24d4-4051-464d-8e1e-2ceb4fcf4a83">
 

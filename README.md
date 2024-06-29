@@ -129,7 +129,21 @@ Features selection
 #### Tenure
 
 <img width="800" alt="" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/assets/135592751/3fd2dde8-b9c9-4754-8920-2afdec228df3">
+<p>Churned users usually are new users → Provide more promotion for new users, or increase the new users experience </p>
 
+#### Complain
 
+<img width="800" alt="" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/assets/135592751/3fd2dde8-b9c9-4754-8920-2afdec228df3">
+<p>Churned users complain more → deep dive what these churned users complain about, and provide the solution  </p>
+
+#### CashbackAmount
+
+<img width="800" alt="" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/assets/135592751/3fd2dde8-b9c9-4754-8920-2afdec228df3">
+<p>Churned users usually receive less cashback than not churn → Increase the cashback ratio  </p>
+
+#### WarehouseToHome
+
+<img width="800" alt="" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/assets/135592751/3fd2dde8-b9c9-4754-8920-2afdec228df3">
+<p>Shorter warehouse to home distances have a lower churn rate. Faster deliveries may improve satisfaction</p>
 
 

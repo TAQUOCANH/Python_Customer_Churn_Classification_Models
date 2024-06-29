@@ -126,24 +126,38 @@ Features selection
 </ul>
 
 ### 3. EDA
-#### Tenure
+#### a. Tenure
 
 <img width="800" alt="" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/assets/135592751/3fd2dde8-b9c9-4754-8920-2afdec228df3">
 <p>Churned users usually are new users → Provide more promotion for new users, or increase the new users experience </p>
 
-#### Complain
+#### b. Complain
 
 <img width="800" alt="" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/assets/135592751/e843cd6b-893c-4794-bb1d-ed8c0900f3c0">
 <p>Churned users complain more → deep dive what these churned users complain about, and provide the solution  </p>
 
-#### CashbackAmount
+#### c. CashbackAmount
 
 <img width="800" alt="" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/assets/135592751/0d2b081a-5d0d-4c29-8072-c8714bee3822">
 <p>Churned users usually receive less cashback than not churn → Increase the cashback ratio  </p>
 
-#### WarehouseToHome
+#### d. WarehouseToHome
 
 <img width="800" alt="" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/assets/135592751/4fef624e-e406-46e3-bf29-e67083f96ea3">
 <p>Shorter warehouse to home distances have a lower churn rate. Faster deliveries may improve satisfaction</p>
 
+## III. Find the Best Model
+
+<img width="800" alt="" src="https://github.com/TAQUOCANH/Python_Customer_Churn_Classification_Models/assets/135592751/4fef624e-e406-46e3-bf29-e67083f96ea3">
+
+
+## IV. Conclusion
+
+ **Best Model: RandomForestClassifier**
+
+- **Reason**: It has the highest accuracy, precision, recall, and F1-score. Despite the higher training time, it provides the best overall performance.
+
+**Alternative Model: KNeighborsClassifier**
+
+- **Reason**: If training time and computational efficiency are critical, this model offers very good performance with minimal training time.
 
